@@ -1,0 +1,23 @@
+[Libraries]
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.suo
+*.userprefs
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
