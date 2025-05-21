@@ -1,29 +1,55 @@
-# 👾 Space Invaders
+# Space Invaders (Unity 2D)
 
-Proyecto realizado con **Unity 2D** como parte de mi formación en desarrollo de videojuegos. Es una recreación del clásico *Space Invaders*: controlas una nave que debe destruir a los enemigos antes de que lleguen al borde inferior de la pantalla.
+![Captura de juego](game_screenshot.png)
 
-![Captura del juego](game_screenshot.png)
-
-## 🎮 Cómo se juega
-
-- Mueve tu nave con `WASD` o las flechas del teclado.
-- Dispara a los enemigos que caen en línea recta desde la parte superior.
-- Tienes 3 vidas (representadas con corazones).
-- El objetivo es aguantar el mayor tiempo posible eliminando enemigos sin perder todas tus vidas.
-
-## 🛠️ Tecnologías utilizadas
-
-- **Unity** (2D)
-- **Lenguaje**: C#
-- **Motor de físicas**: Unity
-
-## 💡 Qué he practicado
-
-- Fundamentos del motor Unity
-- Organización de escenas, prefabs y colisiones
-- Scripts básicos en C# para gestionar movimientos, disparos y colisiones
-- HUD con sistema de vidas
-  
 ---
 
-Gracias por visitar el repositorio 👨‍🚀
+## Índice
+1. [Descripción](#descripción)  
+2. [Tecnologías](#tecnologías)  
+3. [Requisitos](#requisitos)  
+4. [Instalación](#instalación)  
+5. [Cómo jugar](#cómo-jugar)  
+6. [Estructura del repositorio](#estructura-del-repositorio)  
+
+---
+
+## Descripción
+Clon de Space Invaders en Unity 2D. Manejas la nave con WASD o flechas, disparas con la barra espaciadora y tienes tres vidas para eliminar tantas oleadas de invasores como puedas. Con este proyecto aprendí a usar prefabs, organizar escenas y escribir scripts en C#.
+
+---
+
+## Tecnologías
+- Unity (2D)  
+- C#  
+
+---
+
+## Requisitos
+- Unity Editor 6000.0.46f1  
+- Linux/Mac OS/Windows
+- Teclado  
+
+---
+
+## Instalación
+    git clone https://github.com/eaomarb/SpaceInvaders.git
+    cd SpaceInvaders
+    # Abre el proyecto con Unity Hub y ejecuta la escena Assets/Scenes/Space.unity
+
+---
+
+## Cómo jugar
+- **Mover**: teclas WASD o flechas  
+- **Disparar**: tecla Espacio  
+- **Vidas**: 3 corazones
+- **Objetivo**: conseguir la máxima puntuación derrotando al mayor número de enemigos  
+
+---
+
+## Estructura del proyecto
+    Assets/
+        Scenes/       # Escenas de Unity
+        Prefabs/      # Prefabs de objetos
+        Sprites/      # Imágenes y sprites
+        Scripts/      # Lógica en C#
