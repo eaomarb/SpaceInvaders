@@ -15,7 +15,7 @@
 ---
 
 ## Descripción
-Clon de Space Invaders en Unity 2D. Manejas la nave con WASD o flechas, disparas con la barra espaciadora y tienes tres vidas para eliminar tantas oleadas de invasores como puedas. Con este proyecto aprendí a usar prefabs, organizar escenas y escribir scripts en C#.
+Proyecto del módulo de Desarrollo de Aplicaciones Multiplataforma (DAM). Clon de Space Invaders en Unity 2D: manejas una nave con WASD (o con las flechas), disparas con la barra espaciadora y tienes tres vidas para eliminar tantas oleadas de invasores como puedas. Con él consolidé mis conocimientos en Unity (prefabs, escenas y colisiones) y programación en C#.
 
 ---
 
@@ -26,16 +26,13 @@ Clon de Space Invaders en Unity 2D. Manejas la nave con WASD o flechas, disparas
 ---
 
 ## Requisitos
-- Unity Editor 6000.0.46f1  
-- Linux/Mac OS/Windows
-- Teclado  
-
+- Unity Editor 6000.0.46f1
 ---
 
 ## Instalación
     git clone https://github.com/eaomarb/SpaceInvaders.git
     cd SpaceInvaders
-    # Abre el proyecto con Unity Hub y ejecuta la escena Assets/Scenes/Space.unity
+    # Abre el proyecto con el editor de Unity y ejecuta la escena Assets/Scenes/Space.unity
 
 ---
 
