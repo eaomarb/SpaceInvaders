@@ -15,7 +15,7 @@
 ---
 
 ## Descripción
-Proyecto del módulo de Desarrollo de Aplicaciones Multiplataforma (DAM). Clon de Space Invaders en Unity 2D: manejas una nave con WASD (o con las flechas), disparas con la barra espaciadora y tienes tres vidas para eliminar tantas oleadas de invasores como puedas. Con él consolidé mis conocimientos en Unity (prefabs, escenas y colisiones) y programación en C#.
+Clon de Space Invaders en Unity 2D: manejas una nave con WASD (o con las flechas), disparas con la barra espaciadora y tienes tres vidas para eliminar tantas oleadas de invasores como puedas. Con él consolidé mis conocimientos en Unity (prefabs, escenas y colisiones) y programación en C#.
 
 ---
 
